@@ -42,8 +42,4 @@ Swasthya Bandhu is a Python-based is a diseases predictor tool and chatbot desig
    ```
 4. Access the chat interface by opening `http://localhost:5000/` in a web browser.
 
-## Contributors
 
-- [Sujit Layek](https://github.com/sujitlayek21)
-
----
