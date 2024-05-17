@@ -1,6 +1,6 @@
 ---
 
-# Swasthya Bandhu - Health Assistant Chatbot
+# Swasthya Bandhu - Health Assistant
 
 Swasthya Bandhu is a Python-based health assistant chatbot designed to provide users with information about various diseases, symptoms, and precautions. It leverages natural language processing (NLP) techniques for chat interaction and machine learning for disease prediction.
 
